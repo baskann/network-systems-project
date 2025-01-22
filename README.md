@@ -31,16 +31,6 @@ project/
 │   └── files_info.json   # File information database
 ```
 
-## Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/cloud-file-storage.git
-cd cloud-file-storage
-```
-
-2. Ensure Python 3.x is installed on your system
-
 ## Usage
 
 ### Starting the Server
